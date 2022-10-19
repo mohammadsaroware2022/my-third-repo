@@ -1,0 +1,79 @@
+h1{
+    color: rgb(0, 0, 0);
+    background-color: rgba(90, 0, 0, 0.384);
+    border: 2px solid black;
+    border-radius: 15px;
+    margin: 10px auto;
+    padding:10px 15px;
+    height: ;
+    width: 650px;
+    text-align: center;
+    font-size: 6em;
+}
+h3{
+    color: rgb(0, 0, 0);
+    background-color: rgb(147, 182, 194);
+    border: 2px solid black;
+    border-radius: 15px;
+    margin: 10px auto;
+    padding:10px 15px;
+    height: ;
+    width:300px ;
+    text-align: center;
+    font-size: 3em;
+    
+}
+.img{
+    text-align: center;
+}
+h4{
+    background-color: rgb(104, 2, 2);
+    
+    border: 4px solid black;
+    border-radius: 15px;
+    margin: 10px auto;
+    padding:10px 15px;
+    height: 15px;
+    width: 100px;
+    text-align: center;
+   
+}
+.food{
+    background-color: rgba(135, 207, 235, 0.411)  ;
+    border-radius: 15px;
+    margin: 10px auto;
+    border: 4px solid black;
+    padding:15px 5px ;
+    height: 140px;
+    font-size: 1.1em;
+    width: 250px;   
+}
+.form{
+    background-color: rgba(169, 169, 169, 0.247);
+    border-radius: 5px;
+    margin: 60px;
+    border: 3px solid black;
+    text-align: left;
+    padding-left: 10px;
+    padding-top: 10px;
+
+    height: 100px;
+    width: 1000px;
+    font-weight: 900;
+}
+.address{
+    color: rgb(0, 0, 0);
+    background-color:rgba(90, 0, 0, 0.384); 
+    border: 2px solid black;
+    border-radius: 5px;
+    margin: 10px auto;
+    padding:10px 15px;
+    height: ;
+    width: ;
+    text-align: center;
+    font-size: 2.5em;
+}
+p{
+    margin: 40px auto;
+    text-align: center;
+}
